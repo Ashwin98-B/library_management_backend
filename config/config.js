@@ -9,9 +9,9 @@ module.exports = {
     "logging" : false
   },
   "development": {
-    "username": "b7d02c48a373e9",
-    "password": "9c5709ab",
-    "database": "heroku_7e291fbbc690abd",
+    "username": "b3c6ef8c8231df",
+    "password": "ad570af6",
+    "database": "heroku_1fab3d714c66fd8",
     "host": "us-cdbr-iron-east-04.cleardb.net",
     "dialect": "mysql",
     "logging" : false
